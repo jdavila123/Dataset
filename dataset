@@ -1,0 +1,152 @@
+[
+  {
+    "Brand": "TechGadgets",
+    "Products": [
+      {
+        "CostPrice": "599.99",
+        "MSRP": "799.99",
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 5,
+        "Description": "Experience immersive gaming with our latest gaming console. Perfect for gamers of all levels.",
+        "ProductName": "Gaming Console X",
+        "GraphicName": "gaming_console_x.png"
+      },
+      {
+        "CostPrice": "299.99",
+        "MSRP": "399.99",
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 10,
+        "Description": "Stay connected with our sleek and powerful smartphone. Capture every moment with its advanced camera features.",
+        "ProductName": "Smartphone Y",
+        "GraphicName": "smartphone_y.png"
+      },
+      {
+        "CostPrice": "149.99",
+        "MSRP": "199.99",
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 15,
+        "Description": "Enhance your audio experience with our noise-canceling headphones. Perfect for music lovers and commuters.",
+        "ProductName": "Noise-Canceling Headphones Z",
+        "GraphicName": "headphones_z.png"
+      },
+      {
+        "CostPrice": "79.99",
+        "MSRP": "129.99",
+        "QtyOnHand": 300,
+        "QtyOnBackOrder": 20,
+        "Description": "Power up your devices on the go with our portable power bank. Ideal for travelers and outdoor enthusiasts.",
+        "ProductName": "Portable Power Bank A",
+        "GraphicName": "power_bank_a.png"
+      },
+      {
+        "CostPrice": "399.99",
+        "MSRP": "499.99",
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 8,
+        "Description": "Improve your home entertainment system with our high-definition smart TV. Enjoy crisp, clear visuals and smart features.",
+        "ProductName": "Smart TV B",
+        "GraphicName": "smart_tv_b.png"
+      }
+    ]
+  },
+  {
+    "Brand": "FashionStyle",
+    "Products": [
+      {
+        "CostPrice": "49.99",
+        "MSRP": "79.99",
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 10,
+        "Description": "Look stylish and feel comfortable with our trendy casual sneakers. Perfect for everyday wear.",
+        "ProductName": "Casual Sneakers C",
+        "GraphicName": "sneakers_c.png"
+      },
+      {
+        "CostPrice": "89.99",
+        "MSRP": "129.99",
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 5,
+        "Description": "Stay warm and fashionable with our cozy winter jacket. Designed for both style and functionality.",
+        "ProductName": "Winter Jacket D",
+        "GraphicName": "jacket_d.png"
+      },
+      {
+        "CostPrice": "29.99",
+        "MSRP": "49.99",
+        "QtyOnHand": 300,
+        "QtyOnBackOrder": 15,
+        "Description": "Complete your look with our classic leather belt. Timeless design suitable for any occasion.",
+        "ProductName": "Leather Belt E",
+        "GraphicName": "belt_e.png"
+      },
+      {
+        "CostPrice": "69.99",
+        "MSRP": "99.99",
+        "QtyOnHand": 180,
+        "QtyOnBackOrder": 8,
+        "Description": "Add a touch of elegance to your outfit with our luxury wristwatch. Crafted with precision and style.",
+        "ProductName": "Luxury Wristwatch F",
+        "GraphicName": "wristwatch_f.png"
+      },
+      {
+        "CostPrice": "39.99",
+        "MSRP": "59.99",
+        "QtyOnHand": 250,
+        "QtyOnBackOrder": 12,
+        "Description": "Stay cool and protected from the sun with our UV-protective sunglasses. Ideal for sunny days and outdoor activities.",
+        "ProductName": "UV-Protective Sunglasses G",
+        "GraphicName": "sunglasses_g.png"
+      }
+    ]
+  },
+  {
+    "Brand": "HomeEssentials",
+    "Products": [
+      {
+        "CostPrice": "19.99",
+        "MSRP": "29.99",
+        "QtyOnHand": 400,
+        "QtyOnBackOrder": 20,
+        "Description": "Keep your home clean with our lightweight vacuum cleaner. Powerful suction for effective cleaning.",
+        "ProductName": "Vacuum Cleaner H",
+        "GraphicName": "vacuum_h.png"
+      },
+      {
+        "CostPrice": "49.99",
+        "MSRP": "69.99",
+        "QtyOnHand": 180,
+        "QtyOnBackOrder": 8,
+        "Description": "Organize your kitchen with our durable stainless steel cookware set. Perfect for amateur and professional chefs alike.",
+        "ProductName": "Cookware Set I",
+        "GraphicName": "cookware_i.png"
+      },
+      {
+        "CostPrice": "29.99",
+        "MSRP": "49.99",
+        "QtyOnHand": 250,
+        "QtyOnBackOrder": 10,
+        "Description": "Create a cozy atmosphere with our decorative LED string lights. Ideal for indoor and outdoor use.",
+        "ProductName": "LED String Lights J",
+        "GraphicName": "lights_j.png"
+      },
+      {
+        "CostPrice": "39.99",
+        "MSRP": "59.99",
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 12,
+        "Description": "Upgrade your bathroom with our luxurious shower head. Enjoy a spa-like experience every day.",
+        "ProductName": "Luxury Shower Head K",
+        "GraphicName": "showerhead_k.png"
+      },
+      {
+        "CostPrice": "24.99",
+        "MSRP": "39.99",
+        "QtyOnHand": 300,
+        "QtyOnBackOrder": 15,
+        "Description": "Keep your drinks cold with our compact mini fridge. Perfect for dorm rooms, offices, and small spaces.",
+        "ProductName": "Mini Fridge L",
+        "GraphicName": "fridge_l.png"
+      }
+    ]
+  }
+]
