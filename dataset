@@ -1,2 +1,3 @@
-[{"Brand": "TechGadgets", "ProductName": "Gaming Console X", "GraphicName": "gaming_console_x.png", "CostPrice": "599.99", "MSRP": "799.99", "QtyOnHand": 100
+[{"Brand": "TechGadgets", "ProductName": "Gaming Console X", "GraphicName": "gaming_console_x.png", "CostPrice": "599.99", "MSRP": "799.99", "QtyOnHand": 100, 
+"QtyOnBackOrder": 100}]
         
