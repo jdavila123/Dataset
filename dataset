@@ -1,5 +1,5 @@
-[{"Brand": "TechGadgets", "ProductName": "Gaming Console X", "GraphicName": "gaming_console_x.png", "CostPrice": "599.99", "MSRP": "799.99", "QtyOnHand": "100", 
+[{"Brand": "TechGadgets", "ProductName": "Gaming Console X", "GraphicName": "gaming_console_x.png", "Description": "Test Data", "CostPrice": "599.99", "MSRP": "799.99", "QtyOnHand": "100", 
 "QtyOnBackOrder": "100"},
-{"Brand": "Samsung", "ProductName": "Smart TV", "GraphicName": "smart_tv_x.png", "CostPrice": "799.99", "MSRP": "899.99", "QtyOnHand": "200", 
+{"Brand": "Samsung", "ProductName": "Smart TV", "GraphicName": "smart_tv_x.png", "Description": "Test Data", "CostPrice": "799.99", "MSRP": "899.99", "QtyOnHand": "200", 
 "QtyOnBackOrder": "200"}]
         
