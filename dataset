@@ -1,5 +1,152 @@
-[{"Brand": "TechGadgets", "ProductName": "Gaming Console X", "GraphicName": "gaming_console_x.png", "Description": "Test Data", "CostPrice": "599.99", "MSRP": "799.99", "QtyOnHand": "100", 
-"QtyOnBackOrder": "100"},
-{"Brand": "Samsung", "ProductName": "Smart TV", "GraphicName": "smart_tv_x.png", "Description": "Test Data", "CostPrice": "799.99", "MSRP": "899.99", "QtyOnHand": "200", 
-"QtyOnBackOrder": "200"}]
-        
+[
+    {
+        "Brand": "TechGadgets",
+        "ProductName": "Gaming Console X",
+        "GraphicName": "gaming_console_x.png",
+        "Description": "A high-performance console for an immersive gaming experience.",
+        "CostPrice": "599.99",
+        "MSRP": "799.99",
+        "QtyOnHand": "100",
+        "QtyOnBackOrder": "100"
+    },
+    {
+        "Brand": "TechGadgets",
+        "ProductName": "VR Headset",
+        "GraphicName": "vr_headset.png",
+        "Description": "Experience virtual reality with high resolution and comfort.",
+        "CostPrice": "299.99",
+        "MSRP": "399.99",
+        "QtyOnHand": "150",
+        "QtyOnBackOrder": "60"
+    },
+    {
+        "Brand": "TechGadgets",
+        "ProductName": "Smart Home Hub",
+        "GraphicName": "smart_home_hub.png",
+        "Description": "A central hub to control all your smart home devices efficiently.",
+        "CostPrice": "99.99",
+        "MSRP": "149.99",
+        "QtyOnHand": "200",
+        "QtyOnBackOrder": "80"
+    },
+    {
+        "Brand": "TechGadgets",
+        "ProductName": "Wireless Charger",
+        "GraphicName": "wireless_charger.png",
+        "Description": "Fast and reliable wireless charging for multiple devices.",
+        "CostPrice": "39.99",
+        "MSRP": "59.99",
+        "QtyOnHand": "300",
+        "QtyOnBackOrder": "120"
+    },
+    {
+        "Brand": "TechGadgets",
+        "ProductName": "Portable Projector",
+        "GraphicName": "portable_projector.png",
+        "Description": "Compact and portable projector for movies and presentations.",
+        "CostPrice": "249.99",
+        "MSRP": "299.99",
+        "QtyOnHand": "80",
+        "QtyOnBackOrder": "30"
+    },
+    {
+        "Brand": "Samsung",
+        "ProductName": "Smart TV",
+        "GraphicName": "smart_tv_x.png",
+        "Description": "A Smart TV with crystal clear display and multiple features.",
+        "CostPrice": "799.99",
+        "MSRP": "899.99",
+        "QtyOnHand": "200",
+        "QtyOnBackOrder": "200"
+    },
+    {
+        "Brand": "Samsung",
+        "ProductName": "Galaxy Tablet",
+        "GraphicName": "galaxy_tablet.png",
+        "Description": "A powerful tablet with a sleek design and high performance.",
+        "CostPrice": "499.99",
+        "MSRP": "599.99",
+        "QtyOnHand": "150",
+        "QtyOnBackOrder": "50"
+    },
+    {
+        "Brand": "Samsung",
+        "ProductName": "Smart Refrigerator",
+        "GraphicName": "smart_refrigerator.png",
+        "Description": "Refrigerator with smart features for a modern kitchen.",
+        "CostPrice": "1199.99",
+        "MSRP": "1399.99",
+        "QtyOnHand": "80",
+        "QtyOnBackOrder": "30"
+    },
+    {
+        "Brand": "Samsung",
+        "ProductName": "Wireless Soundbar",
+        "GraphicName": "wireless_soundbar.png",
+        "Description": "A soundbar with wireless connectivity and superb audio quality.",
+        "CostPrice": "199.99",
+        "MSRP": "249.99",
+        "QtyOnHand": "300",
+        "QtyOnBackOrder": "100"
+    },
+    {
+        "Brand": "Samsung",
+        "ProductName": "Smart Washing Machine",
+        "GraphicName": "smart_washing_machine.png",
+        "Description": "A washing machine with smart features and high efficiency.",
+        "CostPrice": "899.99",
+        "MSRP": "999.99",
+        "QtyOnHand": "60",
+        "QtyOnBackOrder": "20"
+    },
+    {
+        "Brand": "GizmoTech",
+        "ProductName": "Smartwatch Pro",
+        "GraphicName": "smartwatch_pro.png",
+        "Description": "A high-end smartwatch with multiple health tracking features.",
+        "CostPrice": "199.99",
+        "MSRP": "249.99",
+        "QtyOnHand": "150",
+        "QtyOnBackOrder": "50"
+    },
+    {
+        "Brand": "GizmoTech",
+        "ProductName": "Wireless Earbuds",
+        "GraphicName": "wireless_earbuds.png",
+        "Description": "Compact and high-quality sound wireless earbuds.",
+        "CostPrice": "59.99",
+        "MSRP": "79.99",
+        "QtyOnHand": "300",
+        "QtyOnBackOrder": "100"
+    },
+    {
+        "Brand": "GizmoTech",
+        "ProductName": "Laptop Plus",
+        "GraphicName": "laptop_plus.png",
+        "Description": "A powerful laptop designed for professionals and creatives.",
+        "CostPrice": "999.99",
+        "MSRP": "1299.99",
+        "QtyOnHand": "50",
+        "QtyOnBackOrder": "25"
+    },
+    {
+        "Brand": "GizmoTech",
+        "ProductName": "4K Action Camera",
+        "GraphicName": "4k_action_camera.png",
+        "Description": "A durable action camera capable of recording in stunning 4K resolution.",
+        "CostPrice": "299.99",
+        "MSRP": "349.99",
+        "QtyOnHand": "200",
+        "QtyOnBackOrder": "80"
+    },
+    {
+        "Brand": "GizmoTech",
+        "ProductName": "Bluetooth Speaker",
+        "GraphicName": "bluetooth_speaker.png",
+        "Description": "Portable Bluetooth speaker with excellent sound quality and battery life.",
+        "CostPrice": "89.99",
+        "MSRP": "119.99",
+        "QtyOnHand": "400",
+        "QtyOnBackOrder": "150"
+    }
+]
